@@ -1,0 +1,12 @@
+div {
+    padding: 2vh;
+}
+
+h4 {
+    margin: 0;
+    font-weight: lighter;
+    font-family: "Ubuntu Light", ui-monospace;
+    font-size: 4vh;
+    border-bottom: black  1px dashed;
+    padding-bottom: 1vh;
+}
