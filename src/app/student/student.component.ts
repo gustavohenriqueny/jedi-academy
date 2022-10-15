@@ -18,4 +18,8 @@ export class StudentComponent implements OnInit {
 	@Input()
 	student!: Student;
 
+	clicked() {
+		alert(`Student: ${this.student.name} has been clicked`)
+	}
+
 }
